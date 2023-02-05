@@ -1,0 +1,29 @@
+End point : https://apigwuat.kotak.com:8443/v2/BCIF_Dedupe
+
+Encr key : 9645c3c6ee89112cd3d1d28dcc6bf460
+
+API key : 77fe70c27d2a2fb895f0a150b06145e6
+
+"<bcif_dedup>
+    <sourceappcode>WCLOS</sourceappcode>
+    <RqUID>731486</RqUID>
+    <message_type_cd>KB002</message_type_cd>
+    <party_type>I</party_type>
+    <title>MR.</title>
+    <first_name>NITIN</first_name>
+    <middle_name></middle_name>
+    <last_name>AGRAWAL</last_name>
+    <short_name>NITIN</short_name>
+    <mother_maiden_name>Madhu</mother_maiden_name>
+    <date_of_birth>13-Nov-1978</date_of_birth>
+    <reg_effective_date></reg_effective_date>
+    <driver_lic_no></driver_lic_no>
+    <passport_no></passport_no>
+    <voter_id></voter_id>
+    <party_it_type></party_it_type>
+    <pan>AAVPA1327R</pan>
+    <related_corporate_party_id></related_corporate_party_id>
+    <bcif_id></bcif_id>
+    <gcif></gcif>
+    <UINNo>R11941662730</UINNo>
+</bcif_dedup>"

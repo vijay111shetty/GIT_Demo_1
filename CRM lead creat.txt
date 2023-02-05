@@ -1,0 +1,98 @@
+Request : 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CreateLeadReq
+	xmlns="http://www.kotak.com/schemas/AggregatorLeadCRM/CreateLeadReq">
+	<Header>
+		<SrcAppCd>CRMNext</SrcAppCd>
+		<RequestID>49274</RequestID>
+	</Header>
+	<CreateLead>
+		<AssigntoCode></AssigntoCode>
+		<City>MUMBAI</City>
+		<Country>India</Country>
+		<Custom>
+			<Address_Line_1_Le>VIJAYCHAMBERSMALGODOWN</Address_Line_1_Le>
+			<Address_Line_P1_Le></Address_Line_P1_Le>
+			<CRN>105598178</CRN>
+			<CampaignCode />
+			<CampaignName></CampaignName>
+			<Remarks_Le></Remarks_Le>
+			<Address_Type_Le>Residence</Address_Type_Le>
+			<OutStndngLoanTnurInMnth></OutStndngLoanTnurInMnth>
+			<LoanTnurInMnth></LoanTnurInMnth>
+			<StrtmMnthYrOfCurntLoan></StrtmMnthYrOfCurntLoan>
+			<Landmark_LE></Landmark_LE>
+			<Source_SystemID>101</Source_SystemID>
+			<Process_Type>N</Process_Type>
+			<Existing_Customer>Yes</Existing_Customer>
+			<Resident_Type>R</Resident_Type>
+			<Applicant_Type />
+			<RsiednceOrOfcPrmiseSelfOwnd />
+			<Sub_Source>Asset on Asset Cross Sell</Sub_Source>
+			<Sub_Sub_Source>CLOS Agri - MFI</Sub_Sub_Source>
+			<Perfios_Fetch_Applicable></Perfios_Fetch_Applicable>
+			<CurntBankLoanName></CurntBankLoanName>
+			<Work_Experience></Work_Experience>
+			<Propert_Identified></Propert_Identified>
+			<RateOfInterest_LE></RateOfInterest_LE>
+			<CoApplicant_Required></CoApplicant_Required>
+			<PermntAddSamAsCurnt></PermntAddSamAsCurnt>
+			<Country1_LE></Country1_LE>
+			<TypeOfProperty_LE />
+			<State1_LE/>
+			<District1_LE />
+			<City1_LE />
+			<Pincode1_LE></Pincode1_LE>
+			<Landmark1_LE></Landmark1_LE>
+			<PermntAddLine_2></PermntAddLine_2>
+			<NetMonthlyIncome_LE></NetMonthlyIncome_LE>
+			<Outstanding_Loan_Amnt></Outstanding_Loan_Amnt>
+			<CorrespondenceAddLine_2>B-HJILLASANGHMEHSANA</CorrespondenceAddLine_2>
+			<Cmpny_Emp_Name></Cmpny_Emp_Name>
+			<TenureInMonths_LE></TenureInMonths_LE>
+			<Individual>I</Individual>
+			<Finfort_Fetch_Applicable></Finfort_Fetch_Applicable>
+			<EMI_Le></EMI_Le>
+			<Business_Le>Manufacturing</Business_Le>
+			<Vintage_Le></Vintage_Le>
+			<Turnover_Le></Turnover_Le>
+			<property_Le>Residential</property_Le>
+			<LEA_Prospect>Lead</LEA_Prospect>
+		</Custom>
+		<Email>contactyespl@gmail.com</Email>
+		<FirstName>DINESHKUMAR</FirstName>
+		<LastName>PATEL</LastName>
+		<LayoutKey>111198</LayoutKey>
+		<LeadAmount>12100000</LeadAmount>
+		<LeadSourceKey>24</LeadSourceKey>
+		<MobilePhone>9925587840</MobilePhone>
+		<ProductKey>121</ProductKey>
+		<RatingKey>2</RatingKey>
+		<SalutationKey></SalutationKey>
+		<State>MAHARASHTRA</State>
+		<StatusCodeKey>100012</StatusCodeKey>
+		<ZipCode>400072</ZipCode>
+		<LeadID></LeadID>
+	</CreateLead>
+</CreateLeadReq>
+
+Response : 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CreateLeadRes xmlns="http://www.kotak.com/schemas/AggregatorLeadCRM/CreateLeadRes">
+    <Header>
+        <SrcAppCd>CRMNext</SrcAppCd>
+        <RequestID>49274</RequestID>
+    </Header>
+    <CreateLead>
+        <Status>Success</Status>
+        <CRMLeadNum>1326346</CRMLeadNum>
+    </CreateLead>
+</CreateLeadRes>
+
+End point : https://apigwuat.kotak.com:8443/SF/CRM_LeadCreation
+
+Encry key : 6fa5b77373589af97d9eeb9e99edd1c8
+
+API key : 81b17d5cbad256051ff9f9838eaffeca

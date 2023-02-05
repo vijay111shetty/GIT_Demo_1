@@ -1,0 +1,45 @@
+Request :
+"<root>
+    <Request>
+        <SourceAppId>WCLOS</SourceAppId>
+        <ReqID>289032</ReqID>
+        <PanNo>ESSPK9504D</PanNo>
+        <Version>2</Version>
+    </Request>
+</root>"
+
+Response :
+"<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Response>
+        <SourceAppId>WCLOS</SourceAppId>
+        <ReqId>289032</ReqId>
+        <PanDetails>1^ESSPK9504D^E^KUMAR^ASHISH^^Shri^01/04/2021^ASHISH KUMAR^Y^</PanDetails>
+    </Response>
+</root>"
+
+Request : 
+"<root>
+    <Request>
+        <SourceAppId>WCLOS</SourceAppId>
+        <ReqID>488668</ReqID>
+        <PanNo>AEAPT1181M</PanNo>
+        <Version>2</Version>
+    </Request>
+</root>"
+
+Response :
+"<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Response>
+        <SourceAppId>WCLOS</SourceAppId>
+        <ReqId>488668</ReqId>
+        <PanDetails>1^AEAPT1181M^E^TIWARI^AJAY^KUMAR^Shri^01/04/2021^AJAY TIWARI^Y^</PanDetails>
+    </Response>
+</root>"
+
+End point : https://apigwuat.kotak.com:8443/v3/Pan_Bank
+
+Encry ley : ee4edb2e8578fd354b013b3fe6322355
+
+API key : 28bcb6bfb2038144ca5aa3f84d7f3c7a
